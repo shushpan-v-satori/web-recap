@@ -5,19 +5,16 @@
     color: #394166;
 }
 
-.nameTag {
-    h1{
+
+
+h1 {
         font-size: 24px;
     }
 
-    p {
-        font-size: 20px;
-    }
-
-    #smaller_paragraph {
+p {
         font-size: 14px;
     }
-}
+
 
 .box {
     display: flex;
