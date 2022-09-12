@@ -9,13 +9,12 @@ h1{
     font-size: 24px;
 }
 
-h2{
+p {
     font-size: 20px;
 }
 
-h3 {
+#smaller_paragraph {
     font-size: 14px;
-    
 }
 
 .box {
