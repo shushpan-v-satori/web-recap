@@ -1,0 +1,41 @@
+/* *:universal selector*/
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #394166;
+}
+
+/* tag-name selector */
+
+h1{
+    font-size: 24px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 14px;
+    
+}
+
+/* class-name selector */
+
+.box {
+    display: flex;
+    align-items: center;
+    border: 2px solid #1ab9f1;
+    border-radius: 10px;
+    padding: 40px 20px;
+    width: fit-content;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    margin: auto;
+}
+
+img {
+    padding: 10px 20px 10px 10px;
+}
+
+
